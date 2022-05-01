@@ -1,4 +1,6 @@
 <div align="center">
+    <img src="./img/header.png">
+    <br>
     <a href="mailto:richard.gm@outlook.com">
         <img src="https://img.shields.io/badge/Outlook-Email-informational?style=for-the-badge&logo=microsoft&logoColor=white&color=0078d4">
     </a>
