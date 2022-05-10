@@ -17,9 +17,14 @@
 </div>
 <hr>
 
-I'm Richard Guarnieri, a Finance professional who is passionate about technology and inspired by curiosity.
+## About Me ✍
+Hi, I'm Richard Guarnieri. A Finance Professional, Full Stack Developer and Data Scientist.
 
-Feel free to scoop in and explore my profile.
+An internationally experienced, results-driven professional with solid experience in the financial field such as successful execution of turnarounds, mergers and acquisitions (M&A) and sustainable performance improvements in both public and privately held companies.
+
+I'm first and foremost an **engineer** who is technology driven, have incredible passion towards tech and am inspired by curiosity, which have led me to eagerly try to understand how things work at fundamental levels. I've been coding since childhood and am a self-taught programmer, always experimenting with various systems and tools.
+
+Feel free to scoop in and explore my GitHub profile.
 <br>
 
 <!-- GitHub README Stats by https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md -->
@@ -32,20 +37,20 @@ Feel free to scoop in and explore my profile.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardguarnieri&layout=compact" />
 </a> -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=richardguarnieri&count_private=true&show_icons=true)](https://github.com/richardguarnieri/)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=richardguarnieri&count_private=true&show_icons=true&theme=dark)](https://github.com/richardguarnieri/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richardguarnieri&layout=compact)](https://github.com/richardguarnieri/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richardguarnieri&layout=compact&theme=dark)](https://github.com/richardguarnieri/)
 
 ## Pinned Repositories ⚡
 
 <a href="https://github.com/richardguarnieri/personal-asset-manager">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=richardguarnieri&repo=personal-asset-manager&s" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=richardguarnieri&repo=personal-asset-manager&s&theme=dark" />
 </a>
 <a href="https://github.com/richardguarnieri/weather-dashboard">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=richardguarnieri&repo=weather-dashboard" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=richardguarnieri&repo=weather-dashboard&theme=dark" />
 </a>
 <a href="https://github.com/richardguarnieri/work-day-scheduler">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=richardguarnieri&repo=work-day-scheduler" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=richardguarnieri&repo=work-day-scheduler&theme=dark" />
 </a>
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=richardguarnieri&repo=personal-asset-manager&s)](https://github.com/richardguarnieri/personal-asset-manager)
