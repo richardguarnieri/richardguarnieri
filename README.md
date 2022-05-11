@@ -22,7 +22,7 @@ Hi, I'm Richard Guarnieri. A Finance Professional, Full Stack Developer and Data
 
 An internationally experienced, results-driven professional with solid experience in the financial field such as successful execution of turnarounds, mergers and acquisitions (M&A) and sustainable performance improvements in both public and privately held companies.
 
-I'm first and foremost an **engineer** who is technology driven, have incredible passion towards tech and am inspired by curiosity, which have led me to eagerly try to understand how things work at fundamental levels. I've been coding since childhood and am a self-taught programmer, always experimenting with various systems and tools.
+I'm first and foremost an **engineer** who is technology driven, have incredible passion towards tech and am driven by curiosity, which have led me to eagerly try to understand how things work at fundamental levels. I've been coding since childhood and am a self-taught programmer, always experimenting with various systems and tools.
 
 Feel free to scoop in and explore my GitHub profile.
 <br>
