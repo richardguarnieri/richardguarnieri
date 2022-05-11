@@ -37,7 +37,7 @@ Feel free to scoop in and explore my GitHub profile.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardguarnieri&layout=compact" />
 </a> -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=richardguarnieri&count_private=true&show_icons=true&theme=dark)](https://github.com/richardguarnieri/)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=richardguarnieri&count_private=true&show_icons=true&theme=dark)](https://github.com/richardguarnieri/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richardguarnieri&layout=compact&theme=dark)](https://github.com/richardguarnieri/)
 
