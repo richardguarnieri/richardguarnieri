@@ -41,7 +41,7 @@ Feel free to scoop in and explore my GitHub profile.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richardguarnieri&layout=compact&theme=dark)](https://github.com/richardguarnieri/)
 
-## Pinned Repositories ⚡
+<!-- ## Pinned Repositories ⚡
 
 <a href="https://github.com/richardguarnieri/personal-asset-manager">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=richardguarnieri&repo=personal-asset-manager&s&theme=dark" />
@@ -51,7 +51,7 @@ Feel free to scoop in and explore my GitHub profile.
 </a>
 <a href="https://github.com/richardguarnieri/work-day-scheduler">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=richardguarnieri&repo=work-day-scheduler&theme=dark" />
-</a>
+</a> -->
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=richardguarnieri&repo=personal-asset-manager&s)](https://github.com/richardguarnieri/personal-asset-manager)
 
