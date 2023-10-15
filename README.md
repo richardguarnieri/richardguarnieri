@@ -18,7 +18,7 @@
 <hr>
 
 ## About Me ✍
-Hi, I'm Richard Guarnieri. A Finance Professional and Software Developer.
+Hi, I'm Richard Guarnieri — Finance Professional and Software Developer.
 
 A technology-driven **engineer** with an incredible passion towards tech and guided by curiosity, which has led me to eagerly seek to understand how things work at fundamental levels. I am a self-taught programmer, always experimenting with diverse systems and tools.
 
